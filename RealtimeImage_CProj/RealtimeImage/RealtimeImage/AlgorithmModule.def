@@ -1,0 +1,5 @@
+LIBRARY "RealtimeImage"
+
+EXPORTS
+CreateModule
+DestroyModule

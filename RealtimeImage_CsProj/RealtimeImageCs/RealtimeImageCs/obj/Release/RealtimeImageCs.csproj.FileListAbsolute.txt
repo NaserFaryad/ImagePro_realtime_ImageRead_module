@@ -1,0 +1,6 @@
+C:\Users\ali\Desktop\workspace\RealtimeImage\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageCs\bin\Release\RealtimeImageCs.dll
+C:\Users\ali\Desktop\workspace\RealtimeImage\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageCs\bin\Release\RealtimeImageCs.pdb
+C:\Users\ali\Desktop\workspace\RealtimeImage\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageCs\obj\Release\RealtimeImageCs.csproj.AssemblyReference.cache
+C:\Users\ali\Desktop\workspace\RealtimeImage\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageCs\obj\Release\RealtimeImageCs.csproj.CoreCompileInputs.cache
+C:\Users\ali\Desktop\workspace\RealtimeImage\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageCs\obj\Release\RealtimeImageCs.dll
+C:\Users\ali\Desktop\workspace\RealtimeImage\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageCs\obj\Release\RealtimeImageCs.pdb
