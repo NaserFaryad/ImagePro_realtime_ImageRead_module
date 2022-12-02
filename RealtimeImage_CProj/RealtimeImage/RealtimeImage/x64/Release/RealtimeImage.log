@@ -1,0 +1,100 @@
+﻿  tinyxml2.cpp
+  VmAlgModuBase.cpp
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\SDK\Includes\Common\VisionDesigner\MVD_AlgoParamDefine.h(151,6): warning C4091: 'typedef ': ignored on left of 'VisionDesigner::_MVD_CALIPERTOOL_EDGEMODE__' when no variable is declared
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\SDK\Includes\Common\VisionDesigner\MVD_AlgoParamDefine.h(343,6): warning C4091: 'typedef ': ignored on left of 'VisionDesigner::_MVDOCR_FILTER_TYPE__' when no variable is declared
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\SDK\Includes\Common\VisionDesigner\MVD_AlgoParamDefine.h(364,6): warning C4091: 'typedef ': ignored on left of 'VisionDesigner::_MVDGEOFIND_RUNNING_MODE__' when no variable is declared
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(362,87): warning C4244: '=': conversion from 'double' to 'HKA_F32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(380,83): warning C4244: '=': conversion from 'double' to 'HKA_F32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(403,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(404,39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(405,39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(414,50): warning C4244: '=': conversion from 'double' to 'HKA_F32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(592,93): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(659,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(660,88): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(718,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(719,84): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(1271,88): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(1437,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(1718,46): warning C4305: 'initializing': truncation from 'unsigned int' to 'float'
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(1719,46): warning C4305: 'initializing': truncation from 'unsigned int' to 'float'
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(1727,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(1736,75): warning C4244: '=': conversion from 'double' to 'HKA_F32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(1812,68): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(1824,30): warning C4267: 'argument': conversion from 'size_t' to 'HKA_S32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(1829,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(2252,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(2500,17): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(2578,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(2640,17): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(2737,3): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(2766,4): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(2782,4): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(2799,4): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(2808,4): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(2824,4): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(2841,4): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(2867,4): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(2952,3): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3113,3): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3125,4): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3134,4): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3149,3): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3273,169): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3702,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3738,23): warning C4244: '=': conversion from 'double' to 'HKA_F32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3739,21): warning C4244: '=': conversion from 'double' to 'HKA_F32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3750,52): warning C4244: '=': conversion from 'double' to 'HKA_F32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3751,52): warning C4244: '=': conversion from 'double' to 'HKA_F32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3752,29): warning C4244: '=': conversion from 'double' to 'HKA_F32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3753,29): warning C4244: '=': conversion from 'double' to 'HKA_F32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3902,82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3903,76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3908,78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3909,80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3938,129): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3939,130): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3940,125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(3941,126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(4119,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.cpp(4131,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  VmAlgModuCommon.cpp
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\SDK\Includes\Common\VisionDesigner\MVD_AlgoParamDefine.h(151,6): warning C4091: 'typedef ': ignored on left of 'VisionDesigner::_MVD_CALIPERTOOL_EDGEMODE__' when no variable is declared
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\SDK\Includes\Common\VisionDesigner\MVD_AlgoParamDefine.h(343,6): warning C4091: 'typedef ': ignored on left of 'VisionDesigner::_MVDOCR_FILTER_TYPE__' when no variable is declared
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\SDK\Includes\Common\VisionDesigner\MVD_AlgoParamDefine.h(364,6): warning C4091: 'typedef ': ignored on left of 'VisionDesigner::_MVDGEOFIND_RUNNING_MODE__' when no variable is declared
+  VmModule_IO.cpp
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\SDK\Includes\Common\VisionDesigner\MVD_AlgoParamDefine.h(151,6): warning C4091: 'typedef ': ignored on left of 'VisionDesigner::_MVD_CALIPERTOOL_EDGEMODE__' when no variable is declared
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\SDK\Includes\Common\VisionDesigner\MVD_AlgoParamDefine.h(343,6): warning C4091: 'typedef ': ignored on left of 'VisionDesigner::_MVDOCR_FILTER_TYPE__' when no variable is declared
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\SDK\Includes\Common\VisionDesigner\MVD_AlgoParamDefine.h(364,6): warning C4091: 'typedef ': ignored on left of 'VisionDesigner::_MVDGEOFIND_RUNNING_MODE__' when no variable is declared
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmModule_IO.cpp(618,23): warning C4267: 'argument': conversion from 'size_t' to 'HKA_U32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmModule_IO.cpp(624,23): warning C4267: 'argument': conversion from 'size_t' to 'HKA_U32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmModule_IO.cpp(630,21): warning C4267: 'argument': conversion from 'size_t' to 'HKA_U32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmModule_IO.cpp(636,22): warning C4267: 'argument': conversion from 'size_t' to 'HKA_U32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmModule_IO.cpp(642,21): warning C4267: 'argument': conversion from 'size_t' to 'HKA_U32', possible loss of data
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmModule_IO.cpp(788,21): warning C4018: '<': signed/unsigned mismatch
+  AlgorithmModule.cpp
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\SDK\Includes\Common\VisionDesigner\MVD_AlgoParamDefine.h(151,6): warning C4091: 'typedef ': ignored on left of 'VisionDesigner::_MVD_CALIPERTOOL_EDGEMODE__' when no variable is declared
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\SDK\Includes\Common\VisionDesigner\MVD_AlgoParamDefine.h(343,6): warning C4091: 'typedef ': ignored on left of 'VisionDesigner::_MVDOCR_FILTER_TYPE__' when no variable is declared
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\SDK\Includes\Common\VisionDesigner\MVD_AlgoParamDefine.h(364,6): warning C4091: 'typedef ': ignored on left of 'VisionDesigner::_MVDGEOFIND_RUNNING_MODE__' when no variable is declared
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\RealtimeImage\AlgorithmModule.h(13,1): warning C4275: non dll-interface class 'CVmAlgModuleBase' used as base for dll-interface class 'CAlgorithmModule'
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.h(34): message : see declaration of 'CVmAlgModuleBase'
+C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\RealtimeImage\AlgorithmModule.h(12): message : see declaration of 'CAlgorithmModule'
+  dllmain.cpp
+     Creating library C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\x64\Release\RealtimeImage.lib and object C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\x64\Release\RealtimeImage.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1330 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RealtimeImage.vcxproj -> C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\x64\Release\RealtimeImage.dll
+  ---------------------------------
+  C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\
+  moduName:RealtimeImage
+  xmlPath:C:\Users\ali\Desktop\New folder\RealtimeImage\
+  xcopy "C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\x64\Release\*.dll" "C:\Users\ali\Desktop\New folder\RealtimeImage\" /y
+  C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\x64\Release\RealtimeImage.dll
+  1 File(s) copied
+  xcopy "C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\x64\Release\*.pdb" "C:\Users\ali\Desktop\New folder\RealtimeImage\" /y
+  C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\x64\Release\RealtimeImage.pdb
+  1 File(s) copied
+  ---------------------------------
+  Press any key to continue . . . 

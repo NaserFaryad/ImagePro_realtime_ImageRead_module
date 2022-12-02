@@ -1,0 +1,17 @@
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\bin\Release\RealtimeImageControl.dll
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\bin\Release\RealtimeImageControl.pdb
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\RealtimeImageControl.csproj.AssemblyReference.cache
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\ModelConfigDialog.g.cs
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\ModelPanelControl.g.cs
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\RealtimeImageControl_MarkupCompile.cache
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\RealtimeImageControl_MarkupCompile.lref
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\DataTemplate\ParamUserControlDataTemplate.baml
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\ModelConfigDialog.baml
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\ModelPanelControl.baml
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\Style\ModelControlStyle.baml
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\RealtimeImageControl.g.resources
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\RealtimeImageControl.csproj.CoreCompileInputs.cache
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\RealtimeImageControl.csproj.CopyComplete
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\RealtimeImageControl.dll
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\RealtimeImageControl.pdb
