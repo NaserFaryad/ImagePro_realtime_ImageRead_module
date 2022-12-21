@@ -4,3 +4,5 @@ C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeIma
 C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageCs\obj\Release\RealtimeImageCs.csproj.CoreCompileInputs.cache
 C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageCs\obj\Release\RealtimeImageCs.dll
 C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageCs\obj\Release\RealtimeImageCs.pdb
+C:\Program Files\VisionMaster4.2.0\Applications\Module(sp)\x64\Communication\RealtimeImage\RealtimeImageCs.dll
+C:\Program Files\VisionMaster4.2.0\Applications\Module(sp)\x64\Communication\RealtimeImage\RealtimeImageCs.pdb

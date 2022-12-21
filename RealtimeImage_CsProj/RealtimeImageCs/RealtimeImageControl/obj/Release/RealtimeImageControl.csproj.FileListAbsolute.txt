@@ -15,3 +15,5 @@ C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeIma
 C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\RealtimeImageControl.csproj.CopyComplete
 C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\RealtimeImageControl.dll
 C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageControl\obj\Release\RealtimeImageControl.pdb
+C:\Program Files\VisionMaster4.2.0\Applications\Module(sp)\x64\Communication\RealtimeImage\RealtimeImageControl.dll
+C:\Program Files\VisionMaster4.2.0\Applications\Module(sp)\x64\Communication\RealtimeImage\RealtimeImageControl.pdb

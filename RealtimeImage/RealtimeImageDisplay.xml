@@ -30,22 +30,6 @@
                         <Feature Name="Status" Mapping="NULL" Value="1"/>
                     </Features>
                 </Object>
-                <Object Name="Fixtured Point" Type="point" okcolor="#66ff00" ngcolor="#ff0000" hotcolor="#66ff00" opacity="1" linetype="1" linewidth="1" IsDisplay="true">
-                    <Features>
-                        <Feature Name="CenterX" Mapping="FixtureInitPointX" Value="0"/>
-                        <Feature Name="CenterY" Mapping="FixtureInitPointY" Value="0"/>
-                        <Feature Name="Tips" Value="Fixture BasePoint:({0},{1}) " Mapping="FixtureInitPointX,FixtureInitPointY"/>
-                        <Feature Name="Status" Mapping="NULL" Value="1"/>
-                    </Features>
-                </Object>
-                <Object Name="Unfixtured Point" Type="point" okcolor="#66ff00" ngcolor="#ff0000" hotcolor="#66ff00" opacity="1" linetype="1" linewidth="1" IsDisplay="true">
-                    <Features>
-                        <Feature Name="CenterX" Mapping="FixtureRunPointX" Value="0"/>
-                        <Feature Name="CenterY" Mapping="FixtureRunPointY" Value="0"/>
-                        <Feature Name="Tips" Value="Fixture RunPoint:({0},{1}) " Mapping="FixtureRunPointX,FixtureRunPointY"/>
-                        <Feature Name="Status" Mapping="NULL" Value="1"/>
-                    </Features>
-                </Object>
             </Items>
         </Category>
     </Categorys>

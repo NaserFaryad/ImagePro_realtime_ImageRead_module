@@ -1,0 +1,6 @@
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageCs\bin\Debug\RealtimeImageCs.dll
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageCs\bin\Debug\RealtimeImageCs.pdb
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageCs\obj\Debug\RealtimeImageCs.csproj.AssemblyReference.cache
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageCs\obj\Debug\RealtimeImageCs.csproj.CoreCompileInputs.cache
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageCs\obj\Debug\RealtimeImageCs.dll
+C:\Users\ali\Desktop\New folder\RealtimeImage_CsProj\RealtimeImageCs\RealtimeImageCs\obj\Debug\RealtimeImageCs.pdb

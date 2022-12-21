@@ -102,7 +102,7 @@ namespace RealtimeImageControl
                 }
                 if (ModelImage != null)
                 {
-                    imgModel.Source = b2SConvertor.BuiltImageSource(ModelImage.ImageBuffer, ModelImage.Width, ModelImage.Height, ModelImage.PixelFormat);
+                    //imgModel.Source = b2SConvertor.BuiltImageSource(ModelImage.ImageBuffer, ModelImage.Width, ModelImage.Height, ModelImage.PixelFormat);
                 }
             }
             catch (Exception ex)
@@ -213,6 +213,27 @@ namespace RealtimeImageControl
             {
                 MessageBox.Show(ex.Message);
             }
+            etPath.Text = (OwnerModuleParam as IUserStringData)["Path"];
+
+        }
+
+        private void btnChooseFile_Click(object sender, RoutedEventArgs e)
+        {
+            Microsoft.Win32.OpenFileDialog openFileDialog1 = new Microsoft.Win32.OpenFileDialog();
+            openFileDialog1.InitialDirectory = "c:\\";
+            openFileDialog1.Filter = "Image files (*.jpg) |*.jpg";
+            openFileDialog1.FilterIndex = 0;
+            openFileDialog1.RestoreDirectory = true;
+
+            var result = openFileDialog1.ShowDialog();
+            if (result == false) return;
+            etPath.Text = openFileDialog1.FileName;
+            ((OwnerModuleParam as IParamsConfig) as IUserStringData)["Path"] = openFileDialog1.FileName;
+        }
+
+        private void etPath_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            ((OwnerModuleParam as IParamsConfig) as IUserStringData)["Path"] = etPath.Text;
         }
     }
 

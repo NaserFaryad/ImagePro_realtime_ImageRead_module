@@ -3,95 +3,12 @@
     <Tabs>
         <Tab Name="Tab_Basic Params">
             <Categorys>
-                <GroupLinkItem Name="ImageSourceGroup">
-                    <LinkName>ImageSourceGroup</LinkName>
-                </GroupLinkItem>
-                <Category Name="Tab_ROI Area">
+                <Category Name="Settings">
                     <Items>
-                        <GroupLinkItem Name="RoiSelectGroup">
-                            <LinkName>RoiSelectGroup</LinkName>
-                        </GroupLinkItem>
-                        <ROISelecter Name="RoiType">
-                            <Description>Shape</Description>
-                            <DisplayName>RunParam_Shape</DisplayName>
+                        <ModelPanel>
                             <Visibility>Beginner</Visibility>
-                            <AccessMode>RW</AccessMode>
-                            <FullScreenEnable>True</FullScreenEnable>
-                            <SelectType>Single</SelectType>
-                            <CustomVisible>False</CustomVisible>
-                            <ROISelection>Box</ROISelection>
-                        </ROISelecter>
-                        <GroupLinkItem Name="InheritWayGroup">
-                            <LinkName>InheritWayGroup</LinkName>
-                        </GroupLinkItem>
-                        <GroupLinkItem Name="AssistGroup">
-                            <LinkName>AssistGroup</LinkName>
-                        </GroupLinkItem>
-                    </Items>
-                </Category>
-            </Categorys>
-        </Tab>
-        <Tab Name="Tab_Result Show">
-            <Categorys>
-                <Category Name="Tab_Image Display">
-                    <Items>
-                        <ImageViewConfig Name="FixtureInitPoint">
-                            <Description>Fixtured Point</Description>
-                            <DisplayName>RunParam_Fixtured Point</DisplayName>
-                            <Visibility>Beginner</Visibility>
-                            <AccessMode>O</AccessMode>
-                            <CustomVisible>False</CustomVisible>
-                            <BrigdgeSetter>
-                                <TargetName>BridgeObj</TargetName>
-                                <OperationName>GetDisplayObjectOperation</OperationName>
-                                <OperationParams>Fixtured Point</OperationParams>
-                            </BrigdgeSetter>
-                            <Triggers>
-                                <Trigger>
-                                    <Property>CustomVisible</Property>
-                                    <Setters>
-                                        <Setter>
-                                            <OperationName>SetDisplayObjectPropertyOperation</OperationName>
-                                            <OperationParams>Fixtured Point;IsDisplay</OperationParams>
-                                        </Setter>
-                                    </Setters>
-                                </Trigger>
-                            </Triggers>
-                        </ImageViewConfig>
-                        <ImageViewConfig Name="FixtureRunPoint">
-                            <Description>Unfixtured Point</Description>
-                            <DisplayName>RunParam_Unfixtured Point</DisplayName>
-                            <Visibility>Beginner</Visibility>
-                            <AccessMode>O</AccessMode>
-                            <CustomVisible>False</CustomVisible>
-                            <BrigdgeSetter>
-                                <TargetName>BridgeObj</TargetName>
-                                <OperationName>GetDisplayObjectOperation</OperationName>
-                                <OperationParams>Unfixtured Point</OperationParams>
-                            </BrigdgeSetter>
-                            <Triggers>
-                                <Trigger>
-                                    <Property>CustomVisible</Property>
-                                    <Setters>
-                                        <Setter>
-                                            <OperationName>SetDisplayObjectPropertyOperation</OperationName>
-                                            <OperationParams>Unfixtured Point;IsDisplay</OperationParams>
-                                        </Setter>
-                                    </Setters>
-                                </Trigger>
-                            </Triggers>
-                        </ImageViewConfig>
-                        <ImageViewConfig Name="CheckZone">
-                            <Description>ROI</Description>
-                            <DisplayName>RunParam_ROI</DisplayName>
-                            <Visibility>Beginner</Visibility>
-                            <AccessMode>O</AccessMode>
-                            <BrigdgeSetter>
-                                <TargetName>BridgeObj</TargetName>
-                                <OperationName>GetDisplayObjectOperation</OperationName>
-                                <OperationParams>ROI</OperationParams>
-                            </BrigdgeSetter>
-                        </ImageViewConfig>
+                            <AccessMode>0</AccessMode>
+                        </ModelPanel>
                     </Items>
                 </Category>
             </Categorys>

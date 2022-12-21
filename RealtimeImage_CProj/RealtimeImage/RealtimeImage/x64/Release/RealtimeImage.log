@@ -1,4 +1,5 @@
-﻿  tinyxml2.cpp
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  tinyxml2.cpp
   VmAlgModuBase.cpp
 C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\SDK\Includes\Common\VisionDesigner\MVD_AlgoParamDefine.h(151,6): warning C4091: 'typedef ': ignored on left of 'VisionDesigner::_MVD_CALIPERTOOL_EDGEMODE__' when no variable is declared
 C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\SDK\Includes\Common\VisionDesigner\MVD_AlgoParamDefine.h(343,6): warning C4091: 'typedef ': ignored on left of 'VisionDesigner::_MVDOCR_FILTER_TYPE__' when no variable is declared
@@ -80,21 +81,21 @@ C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\RealtimeImage\
 C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\common\src\VmAlgModuBase.h(34): message : see declaration of 'CVmAlgModuleBase'
 C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\RealtimeImage\AlgorithmModule.h(12): message : see declaration of 'CAlgorithmModule'
   dllmain.cpp
-     Creating library C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\x64\Release\RealtimeImage.lib and object C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\x64\Release\RealtimeImage.exp
+     Creating library ..\..\..\..\..\..\..\Program Files\VisionMaster4.2.0\Applications\Module(sp)\x64\Communication\RealtimeImage\RealtimeImage.lib and object ..\..\..\..\..\..\..\Program Files\VisionMaster4.2.0\Applications\Module(sp)\x64\Communication\RealtimeImage\RealtimeImage.exp
   Generating code
   Previous IPDB not found, fall back to full compilation.
-  All 1330 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 1335 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  RealtimeImage.vcxproj -> C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\x64\Release\RealtimeImage.dll
+  RealtimeImage.vcxproj -> C:\Program Files\VisionMaster4.2.0\Applications\Module(sp)\x64\Communication\RealtimeImage\RealtimeImage.dll
   ---------------------------------
   C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\
   moduName:RealtimeImage
   xmlPath:C:\Users\ali\Desktop\New folder\RealtimeImage\
   xcopy "C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\x64\Release\*.dll" "C:\Users\ali\Desktop\New folder\RealtimeImage\" /y
-  C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\x64\Release\RealtimeImage.dll
-  1 File(s) copied
+  File not found - *.dll
+  0 File(s) copied
   xcopy "C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\x64\Release\*.pdb" "C:\Users\ali\Desktop\New folder\RealtimeImage\" /y
-  C:\Users\ali\Desktop\New folder\RealtimeImage_CProj\RealtimeImage\x64\Release\RealtimeImage.pdb
-  1 File(s) copied
+  File not found - *.pdb
+  0 File(s) copied
   ---------------------------------
   Press any key to continue . . . 

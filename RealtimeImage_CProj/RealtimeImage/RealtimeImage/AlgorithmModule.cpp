@@ -12,6 +12,9 @@ using namespace cv;
 
 
 
+
+string path;
+
 HKA_IMAGE MatToHKAImage(Mat mat)
 {
 
@@ -25,6 +28,7 @@ HKA_IMAGE MatToHKAImage(Mat mat)
 	image.data[0] = mat.data;
 	return image;
 }
+
 
 CAlgorithmModule::CAlgorithmModule()
 {
@@ -73,7 +77,7 @@ int CAlgorithmModule::Process(IN void* hInput, IN void* hOutput, IN MVDSDK_BASE_
 
 	OutputDebugStringA("###Call CAlgorithmModule::Proces end\n");
 
-	cv::Mat input = cv::imread("C:\\temp\\image.jpg", cv::IMREAD_UNCHANGED);
+	cv::Mat input = cv::imread(path, cv::IMREAD_UNCHANGED);
 	HKA_IMAGE image = MatToHKAImage(input);
 	VmModule_OutputImageByName_8u_C1R(hOutput, 1, "OutImage", "OutImageWidth", "OutImageHeight", "OutImagePixelFormat", &image);
 	//VmModule_OutputDstImage_8u_C3R(hOutput, 0, &image);
@@ -99,7 +103,14 @@ int CAlgorithmModule::GetParam(IN const char* szParamName, OUT char* pBuff, IN i
 
 	else
 	{
-		return CVmAlgModuleBase::GetParam(szParamName, pBuff, nBuffSize, pDataLen);
+		if (0 == strcmp("Path", szParamName))
+		{
+			memcpy_s(pBuff, nBuffSize, path.c_str(), strlen(path.c_str()) + 1);
+		}
+		else {
+			return CVmAlgModuleBase::GetParam(szParamName, pBuff, nBuffSize, pDataLen);
+		}
+		
 	}
 	
 	return nErrCode;
@@ -117,7 +128,13 @@ int CAlgorithmModule::SetParam(IN const char* szParamName, IN const char* pData,
 
 	else
 	{
-		return CVmAlgModuleBase::SetParam(szParamName, pData, nDataLen);
+		if (0 == strcmp("Path", szParamName)) {
+			path = pData;
+		}
+		else {
+			return CVmAlgModuleBase::SetParam(szParamName, pData, nDataLen);
+		}
+		
 	}
 
 	return nErrCode;
@@ -164,3 +181,4 @@ LINEMODULE_API void __stdcall DestroyModule(void* hModule, CAbstractUserModule* 
 		delete pUserModule;
 	}
 }
+/////////////////////////////模块须导出的接口（实现结束）//////////////////////////////////////////
